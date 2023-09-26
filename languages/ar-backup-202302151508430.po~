@@ -1,0 +1,254 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: elhetmy\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-01-09 13:45+0000\n"
+"PO-Revision-Date: 2023-02-15 15:08+0000\n"
+"Last-Translator: \n"
+"Language-Team: Arabic\n"
+"Language: ar\n"
+"Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100 >= 3 "
+"&& n%100<=10 ? 3 : n%100 >= 11 && n%100<=99 ? 4 : 5;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.2; wp-6.1.1\n"
+"X-Domain: hetmy"
+
+#: lib/hetmy_theme_init.php:181
+msgid " Description"
+msgstr ""
+
+#. Name of the template
+msgid "About Template"
+msgstr ""
+
+#: lib/hetmy_theme_init.php:151
+msgid "Add New"
+msgstr ""
+
+#: lib/hetmy_taxonomy_terms.php:18
+msgid "Add New Procedures Category"
+msgstr ""
+
+#: lib/hetmy_taxonomy_terms.php:44
+msgid "Add New Procedures Gallery"
+msgstr ""
+
+#: lib/hetmy_taxonomy_terms.php:13
+msgid "All Procedures Categorys"
+msgstr ""
+
+#: lib/hetmy_taxonomy_terms.php:39
+msgid "All Procedures Gallery"
+msgstr ""
+
+#: footer.php:202
+msgid "All Right Reserved to Dr.Mohamed Al-Haitamy"
+msgstr "جميع الحقوق محفوظة للدكتور محمد الهيتمي"
+
+#. Author of the theme
+msgid "Anonymous"
+msgstr ""
+
+#: 404.php:16
+msgid "Back to Home"
+msgstr ""
+
+#: index.php:543
+msgid "Call now"
+msgstr "اتصل الان"
+
+#: footer.php:98
+msgid "Contact"
+msgstr "تواصل معنا "
+
+#. Name of the template
+msgid "Contact Template"
+msgstr ""
+
+#: footer.php:208
+msgid "Designed & Developed by "
+msgstr "تم التصميم والتطوير بواسطة "
+
+#: lib/hetmy_taxonomy_terms.php:16
+msgid "Edit Procedures Category"
+msgstr ""
+
+#: lib/hetmy_taxonomy_terms.php:42
+msgid "Edit Procedures Gallery"
+msgstr ""
+
+#: index.php:533
+msgid "Email address"
+msgstr "البريد الالكترونى"
+
+#: lib/hetmy_theme_init.php:167
+msgid "Featured Image"
+msgstr ""
+
+#: lib/hetmy_theme_init.php:235
+msgid "Gallery Image"
+msgstr ""
+
+#. Name of the template
+msgid "Gallery Template"
+msgstr ""
+
+#: page_title.php:65
+msgid "Home"
+msgstr "الرئيسية"
+
+#: lib/hetmy_meta_fields.php:20
+msgid "Link Text: "
+msgstr ""
+
+#: lib/hetmy_meta_fields.php:43
+msgid "Link URL: "
+msgstr ""
+
+#: single-gallery.php:95
+msgid "Most Gallery"
+msgstr "الصور الاكثر مشاهدة "
+
+#: single-procedures.php:95
+msgid "Most Procedures"
+msgstr "الاجراءات الاكثر اهتماما"
+
+#: single-procedures.php:125 single-gallery.php:125
+msgid "need help?"
+msgstr "تحتاج مساعدة؟"
+
+#: lib/hetmy_taxonomy_terms.php:19
+msgid "New Procedures Category Name"
+msgstr ""
+
+#: lib/hetmy_taxonomy_terms.php:45
+msgid "New Procedures Gallery Name"
+msgstr ""
+
+#. Name of the template
+msgid "News Template"
+msgstr ""
+
+#: lib/hetmy_theme_init.php:163
+msgid "Not found"
+msgstr ""
+
+#: lib/hetmy_theme_init.php:165
+msgid "Not found in Trash"
+msgstr ""
+
+#: page_title.php:45 page_title.php:87
+msgid "Page Not Found"
+msgstr "الصفحة غير موجودة"
+
+#: lib/hetmy_taxonomy_terms.php:14
+msgid "Parent Procedures Category"
+msgstr ""
+
+#: lib/hetmy_taxonomy_terms.php:15
+msgid "Parent Procedures Category:"
+msgstr ""
+
+#: lib/hetmy_taxonomy_terms.php:40
+msgid "Parent Procedures Gallery"
+msgstr ""
+
+#: lib/hetmy_taxonomy_terms.php:41
+msgid "Parent Procedures Gallery:"
+msgstr ""
+
+#: page-gallery.php:30
+msgid "Picture Gallery"
+msgstr "معرض الصور"
+
+#: lib/hetmy_meta_fields.php:77
+msgid "Position: "
+msgstr ""
+
+#: footer.php:70
+msgid "Procedures"
+msgstr "الاجراءات"
+
+#: lib/hetmy_taxonomy_terms.php:20
+msgid "Procedures Category"
+msgstr ""
+
+#: lib/hetmy_taxonomy_terms.php:46
+msgid "Procedures Gallery"
+msgstr ""
+
+#. Name of the template
+msgid "Procedures Page Template"
+msgstr ""
+
+#. Name of the template
+msgid "Procedures Template"
+msgstr ""
+
+#: lib/hetmy_theme_init.php:171
+msgid "Remove featured image"
+msgstr ""
+
+#: lib/hetmy_taxonomy_terms.php:12
+msgid "Search Procedures Categorys"
+msgstr ""
+
+#: lib/hetmy_taxonomy_terms.php:38
+msgid "Search Procedures Gallery"
+msgstr ""
+
+#: lib/hetmy_theme_init.php:169
+msgid "Set featured image"
+msgstr ""
+
+#: 404.php:11
+msgid "Sorry We Can't Find That Page!"
+msgstr "آسف لا يمكننا العثور على تلك الصفحة!"
+
+#: lib/hetmy_taxonomy_terms.php:10
+msgctxt "taxonomy general name"
+msgid "Procedures Categorys"
+msgstr ""
+
+#: lib/hetmy_taxonomy_terms.php:36
+msgctxt "taxonomy general name"
+msgid "Procedures Gallery"
+msgstr ""
+
+#: lib/hetmy_taxonomy_terms.php:11
+msgctxt "taxonomy singular name"
+msgid "Procedures Category"
+msgstr ""
+
+#: lib/hetmy_taxonomy_terms.php:37
+msgctxt "taxonomy singular name"
+msgid "Procedures Gallery"
+msgstr ""
+
+#: 404.php:12
+msgid ""
+"The page you are looking for was moved, removed, renamed or never existed."
+msgstr ""
+
+#: lib/hetmy_taxonomy_terms.php:17
+msgid "Update Procedures Category"
+msgstr ""
+
+#: lib/hetmy_taxonomy_terms.php:43
+msgid "Update Procedures Gallery"
+msgstr ""
+
+#: lib/hetmy_theme_init.php:173
+msgid "Use as featured image"
+msgstr ""
+
+#: footer.php:45
+msgid "Useful Links"
+msgstr "روابط مفيدة"
+
+#: index.php:523
+msgid "Visit Us"
+msgstr "زورنا"
